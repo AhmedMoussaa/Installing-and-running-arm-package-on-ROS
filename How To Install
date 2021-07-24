@@ -1,0 +1,10 @@
+1- Download Virtual Box from : https://www.virtualbox.org/wiki/Downloads
+2- Download Ubuntu 18.04 (codenamed Bionic Beaver) : https://phoenixnap.com/kb/how-to-install-ubuntu-18-04
+once downloaded Ubuntu you will get an ISO file so either burn it on Flash USB or run it using the Virtual Box
+
+so for running it on the Virtual Box , you will open the program and then 
+- Press New , Name the Virtual system and then you will choose the ISO file you downloaded for Ubuntu
+
+3- Now the Virtual Box will install the Ubuntu and you will have to create a username and password for Ubuntu system later on
+
+after that you are ready to go and use Ubuntu 
